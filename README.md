@@ -1,4 +1,4 @@
-# Simple Browser
+# Ake browser test 2
 
 A simple web application that performs searches using the Google Custom Search API.
 
@@ -18,4 +18,4 @@ A simple web application that performs searches using the Google Custom Search A
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/simple_browser.git
+   git clone https://github.com/flixifytvisbackformoregithub/browserlikegoogletest.git
